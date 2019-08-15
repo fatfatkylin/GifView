@@ -1,18 +1,18 @@
-#GiFView
+# GiFView
 **An easy way to use gif. It is written by swift.**
 >I made this for personal use, but feel free to use it or contribute. 
 >For more examples check out [Sources](https://github.com/fatfatkylin/GifView/tree/master/GifView/GifView) and [Example](https://github.com/fatfatkylin/GifView/blob/master/GifView/ViewController.swift).
 
-##Index
+## Index
 - [Intro](#intro)
 - [Usage](#usage)
 - [Installation](#installation)
 - [License](#license)
 
-##Intro
+## Intro
 This is not a perfect way to solve the gif problems. Yout can easily use the GifView to play gif in correct frames or stop the gif. 
 
-##Usage
+## Usage
 You can new a GifView by using storyborad、xib. Then you should init the GifView by using the function 'initGifWithName'. After initing the gif, you can use the function 'play' or 'stop' to control the gif. ps:More function are coming soon.
 ```swift
 import UIKit
@@ -43,7 +43,7 @@ class ViewController: UIViewController {
 }
 ```
 
-##Installation
+## Installation
 - [CocoaPods](http://cocoapods.org/):
 
 	```ruby
