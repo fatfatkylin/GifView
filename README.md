@@ -52,12 +52,11 @@ class ViewController: UIViewController {
 - SourceCode
 
    ```
-	You can easily copy the source files to project.
+	You can easily copy the source files into your project.
    ```
 
 ## License
 GifView is released under the MIT license. See [LICENSE](LICENSE) for details.
-
 
 
 
